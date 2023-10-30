@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 I have learned Data Structures & algorithms.
-I'm currently learning MERN Stack Development.
+I'm  a MERN Stack Developer.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Ankit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ankiit-yadav/)]([https://www.linkedin.com/in/ankiit-yadav/])
 [![geeksforgeeks Badge](https://img.shields.io/badge/-Ankit-blue?style=flat-square&logo=geeksforgeeks&logoColor=green&link=https://auth.geeksforgeeks.org/user/ankiityadavv/practice)]([(https://auth.geeksforgeeks.org/user/ankiityadavv/practice)])
