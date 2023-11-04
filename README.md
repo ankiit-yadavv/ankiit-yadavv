@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ankit Yadav</h1>
 <h3 align="center">A MERN Stack Developer</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ankiit-yadavv&label=Profile%20views&color=0e75b6&style=flat" alt="ankiit-yadavv" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=helloodeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="ankiit-yadavv" /> </p>
 
 - 🌱 I’m currently learning **Next.JS**
 
@@ -17,7 +17,7 @@
                   &theme=tokyonight" />
 </p>
 
-<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=ankiit-yadavv&bg_color=000000&color=1fdbd8&line=ff5c5c&point=1adbce&area=true&hide_border=false" />
+<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=helloodeveloper&bg_color=000000&color=1fdbd8&line=ff5c5c&point=1adbce&area=true&hide_border=false" />
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
