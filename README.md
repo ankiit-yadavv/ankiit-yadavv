@@ -16,5 +16,5 @@
           <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=helloodeveloper&theme=tokyonight" />
 </p>
 
-<p align="center">  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helloodeveloper&theme=tokyonight&layout=compact) </p>
+<p align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helloodeveloper&theme=tokyonight&layout=compact)</p>
 
