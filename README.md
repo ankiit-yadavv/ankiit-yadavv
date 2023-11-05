@@ -12,11 +12,13 @@
 - ⚡ Fun fact **Yeah There's Nothing Fun >_< :( **
 
 <p width="100%" align="center">
-          <img width="48%" src="https://github-readme-stats.vercel.app/api?username=helloodeveloper&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+ <img width="48%" src="https://github-readme-stats.vercel.app/api?username=helloodeveloper&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
 </p>
 <p width="100%" align="center">
-          <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=helloodeveloper&theme=tokyonight" />
+ <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=helloodeveloper&theme=tokyonight" />
 </p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helloodeveloper&theme=tokyonight&layout=compact) 
+<p width="100%" align="center">
+ <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloodeveloper&theme=tokyonight&layout=compact" />
+</p>
+ 
 
