@@ -14,9 +14,9 @@
 <p width="100%" align="center">
           <img width="48%" src="https://github-readme-stats.vercel.app/api?username=helloodeveloper&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
 </p>
+<p width="100%" align="center">
+          <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=helloodeveloper&theme=tokyonight" />
+</p>
 
-   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=helloodeveloper&theme=tokyonight" />
-
-
-<a algin="center" href ="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helloodeveloper&theme=tokyonight&layout=compact)" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helloodeveloper&theme=tokyonight&layout=compact) 
 
