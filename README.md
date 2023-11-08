@@ -1,20 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ankit Yadav</h1>
 <h3 align="center">A MERN Stack Developer</h3>
-<p align="center">
- <img alt="coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-</p>
-
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=helloodeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="ankiit-yadavv" /> </p>
-
-- 🌱 I’m currently learning **Next.JS**
-
-- 💬 Ask me about **React, MERN STACK, Data Structures**
-
-- 📫 How to reach me : **ankiityadav.work@gmail.com**
-
-- ⚡ Fun fact **Yeah There's Nothing Fun >_<**
-
+<p align="center">
+ <img alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+</p>
 <p width="100%" align="center">
  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=helloodeveloper&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
  <img width="43%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloodeveloper&theme=tokyonight&layout=compact" />
@@ -34,5 +24,13 @@
 <a href="https://instagram.com/ankiityadavv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Ankit Yadav" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ankiityadavv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Ankit Yadav" height="30" width="40" /></a>
 </p>
+
+- 🌱 I’m currently learning **Next.JS**
+
+- 💬 Ask me about **React, MERN STACK, Data Structures**
+
+- 📫 How to reach me : **ankiityadav.work@gmail.com**
+
+- ⚡ Fun fact **Yeah There's Nothing Fun >_<**
  
 
