@@ -30,7 +30,7 @@
 
 - 💬 Ask me about **React, MERN STACK, Data Structures**
 
-- 📫 How to reach me : **ankiityadav.work@gmail.com**
+- 📫 Another way to reach me : **ankiityadav.work@gmail.com**
 
 - ⚡ Fun fact **Yeah There's Nothing Fun >_<**
  
